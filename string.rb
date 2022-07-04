@@ -1,3 +1,11 @@
+# Aqui é um exemplo de como usar a string dentro do ruby
+puts "############### Aqui é um exemplo de como criar uma string usando aspas simple e dupla###################"
+puts "Hello World!"
+puts 'Olá Mundo!'
+puts "############### ######################"
+
+puts "Aqui é um exemplo de como usar váriavel e interpolação"
+
 v1 = 'Hemershon'
 
 puts "Hello!" + v1
